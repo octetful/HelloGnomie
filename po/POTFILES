@@ -1,0 +1,7 @@
+data/com.octetful.gnome.desktop.in
+data/com.octetful.gnome.appdata.xml.in
+data/com.octetful.gnome.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
